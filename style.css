@@ -1,0 +1,74 @@
+body {
+    width: 40%;
+    font-family: Arial;
+    font-size: 0.95em;
+}
+
+.message {
+    padding: 10px;
+    color: #212121;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+
+.success {
+    background: #d9efd1;
+    border: #d3e4cd 1px solid;
+}
+
+.error {
+    background: #efd1d1;
+    border: #e0c8c9 1px solid;
+}
+
+.demo-table {
+    width: 50%;
+    background-color: antiquewhite;
+    border-spacing: initial;
+    word-break: break-word;
+    table-layout: auto;
+    line-height: 1.8em;
+    color: #333;
+    border: white 0 groove;
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 1px;
+}
+
+.demo-table td {
+    padding: 5px 85px 5px 15px;
+}
+
+.demoInputBox,select {
+    padding: 5px;
+    border: #E0E0E0 1px solid;
+    border-radius: 4px;
+    width:190px;
+}  
+
+.btnRegister {
+    padding: 10px 40px;
+    background-color: #09F;
+    border: 0;
+    color: #FFF;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.thead {
+    font-size: 15px;
+    text-align: center;
+    color: green;
+}
+
+.modal-header{
+    padding: 0;
+    font-weight: bold;
+}
+
+
+placeholder{
+    font-weight: bolder;
+}
